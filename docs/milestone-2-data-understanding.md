@@ -1,4 +1,4 @@
-# 🟡 Milestone 2 — Data Collection & Understanding
+# Milestone 2 — Data Collection & Understanding
 
 ## 1. Purpose
 

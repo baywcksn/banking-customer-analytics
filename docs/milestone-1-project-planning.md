@@ -1,4 +1,4 @@
-# 🟢 Milestone 1 — Project Planning & Setup
+# Milestone 1 — Project Planning & Setup
 
 ## 1. Purpose
 
